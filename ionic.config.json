@@ -1,0 +1,7 @@
+{
+  "name": "geomyapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
